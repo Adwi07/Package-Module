@@ -1,0 +1,14 @@
+2026-10-20 20:50:36,550 | INFO | SUCCESS | data.csv moved to D:\Tasks\FileOrganizer_Test\Data\data.csv
+2026-10-20 20:50:36,552 | ERROR | FAILED | Unsupported file | mystery.xyz | Unsupported extension: .xyz
+2026-10-20 20:50:36,554 | INFO | SUCCESS | notes.txt moved to D:\Tasks\FileOrganizer_Test\Text\notes.txt
+2026-10-20 20:50:36,555 | INFO | SUCCESS | photo.jpg moved to D:\Tasks\FileOrganizer_Test\Images\photo.jpg
+2026-10-20 20:50:36,557 | INFO | SUCCESS | report.pdf moved to D:\Tasks\FileOrganizer_Test\Documents\report.pdf
+2026-10-20 20:50:36,559 | INFO | SUCCESS | script.py moved to D:\Tasks\FileOrganizer_Test\Code\script.py
+2026-10-20 20:50:36,560 | INFO | RUN SUMMARY | Successful=5 | Failed=1 | Skipped=0
+2026-10-21 01:07:58,917 | INFO | SUCCESS | customers.csv moved to D:\Tasks\FileOrganizer_Test\Data\customers.csv
+2026-10-21 01:07:58,918 | ERROR | FAILED | Unsupported file | mystery.xyz | Unsupported extension: .xyz
+2026-10-21 01:07:58,918 | INFO | SUCCESS | notes.txt moved to D:\Tasks\FileOrganizer_Test\Text\notes_1.txt
+2026-10-21 01:07:58,920 | INFO | SUCCESS | resume.pdf moved to D:\Tasks\FileOrganizer_Test\Documents\resume.pdf
+2026-10-21 01:07:58,921 | INFO | SUCCESS | screenshot.png moved to D:\Tasks\FileOrganizer_Test\Images\screenshot.png
+2026-10-21 01:07:58,926 | INFO | SUCCESS | website.js moved to D:\Tasks\FileOrganizer_Test\Code\website.js
+2026-10-21 01:07:58,927 | INFO | RUN SUMMARY | Successful=5 | Failed=1 | Skipped=5
